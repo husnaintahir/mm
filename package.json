@@ -23,7 +23,6 @@
     "react-native-linear-gradient": "^2.8.3",
     "react-native-modal": "^14.0.0-rc.1",
     "react-native-orientation-locker": "^1.7.0",
-    "react-native-safe-area-context": "^5.5.2",
     "react-native-screens": "^4.13.0",
     "react-native-sqlite-storage": "^6.0.1",
     "react-native-tracking-transparency": "^0.1.2",
